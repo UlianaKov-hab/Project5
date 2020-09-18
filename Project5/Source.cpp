@@ -6,7 +6,7 @@ using namespace std;
 void Print(char arr[9])
 {
     int count = 0;
-    cout << "_________\n";
+    cout << "_____________\n";
     for (size_t i = 0; i < 9; i++)
     {
         cout << "|" << arr[i] << "|";
