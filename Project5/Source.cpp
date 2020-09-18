@@ -30,7 +30,7 @@ void Play(char token, char arr[9])
         }
         else
         {
-            cout << "Error\n";
+            cout << "Error!\n";
         }
     }
 }
